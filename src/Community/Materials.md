@@ -22,6 +22,8 @@
 Tips: All English Slides and videos are on slideshare.net and Youtube; 
 All Chinese Slides and videos are on slidestalk.com and bilibili.
 (所有的中文材料都在 slidestalk.com 和 bilibili上.)
+
+
 ## Meetups and Talks
 * 2023.04.15, 2023 IoTDB Core Technology Meetup 3: EMQ X IoTDB Meet Up: The Data Foundation Of Intelligent Vehicles. IoTDB 核心技术 Meetup 3: IoTDB X EMQ: 智能汽车的数据基座 Meetup. Shanghai, China.
   * (Chinese 中文)Best Application Practices of IoTDB in the Scenarios of IoV and Intelligent Car Factories. [IoTDB 在车联网与智慧车厂场景的最佳应用实践](#ZNQCJZ). Reporter: Yuan Tian.
@@ -92,7 +94,6 @@ All Chinese Slides and videos are on slidestalk.com and bilibili.
   * (Chinese 中文) [Apache IoTDB: From Chinese University to the World](#meetup2020-coscon1) Apache IoTDB: 从中国高校走向世界. Reporter: Jialin Qiao.
   * (Chinese 中文) [Apache IoTDB: Managing Industrial IoT Data](#meetup2020-coscon2) Apache IoTDB: 工业物联网数据管理. Reporter: Xiangdong Huang.
 * 2020.09.30, ApacheCon 2020, online.
-
   * (English) [Use Cases and Optimizations of IoTDB](#apachecon2020). Reporter: Jialin Qiao.
 * 2020.09.26, Apache Hadoop Meetup. Shanghai, China. 
   * (Chinese 中文) 从IoTDB到 Hadoop: 工业物联网边云协同开源生态 (略,类似[Apache IoTDB: Managing Industrial IoT Data](#meetup2020-coscon2)). Reporter: Xiangdong Huang.
@@ -154,6 +155,7 @@ All Chinese Slides and videos are on slidestalk.com and bilibili.
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/lms4cEH1eqnRZC" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen> </iframe>
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/LLFc3yPyTFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Chinese 中文
 
@@ -257,9 +259,6 @@ All Chinese Slides and videos are on slidestalk.com and bilibili.
 
 <iframe src="//player.bilibili.com/player.html?aid=560637203&bvid=BV1me4y187Jg&cid=838353399&page=1&autoplay=0" scrolling="no" border="0" width="640" height="480" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-
-
-
 * <span id = "tianyuan1"> 2022.07, 大厂各轮面试中开源经验有什么用.  Reporter: Yuan Tian. </span>
 
 <iframe src="//player.bilibili.com/player.html?aid=687574393&bvid=BV1JU4y1r7BP&cid=818794410&page=1&autoplay=0" scrolling="no" border="0" width="640" height="480" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -303,7 +302,6 @@ All Chinese Slides and videos are on slidestalk.com and bilibili.
 *<span id = "dashuju"> 2022.02, IoTDB 在 360 的落地实践. Reporter: Jianyun Cheng. </span>
 
 <iframe src="//player.bilibili.com/player.html?aid=594383405&bvid=BV1Pq4y147z4&cid=700109523&page=1&autoplay=0" width="640" height="480" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 
 * <span id = "meetup2020-1"> 2020.11, IoTDB 使用进阶与背后原理介绍. Reporter: Kaifeng Xue. </span>
 
